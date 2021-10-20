@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SD.AmarkDillonGageListener", "SD.AmarkDillonGageListener\SD.AmarkDillonGageListener.csproj", "{EFAA72CD-538E-4947-99BB-97E8E8EB6A8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFAA72CD-538E-4947-99BB-97E8E8EB6A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAA72CD-538E-4947-99BB-97E8E8EB6A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAA72CD-538E-4947-99BB-97E8E8EB6A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAA72CD-538E-4947-99BB-97E8E8EB6A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A956E5EB-9709-4B7B-BEE6-56CC007CD7B1}
+	EndGlobalSection
+EndGlobal
